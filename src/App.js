@@ -4,6 +4,7 @@ import CardStudents from './Components/CardStudents';
 import NavBar from './Components/NavBar';
 
 
+
 function App() {
 
   const Users = [
@@ -28,8 +29,9 @@ function App() {
       name: 'Med Ali Ben Nasr',
       email: 'medali.bnasr@gmail.com',
       phone: '202-555-0106',
-      photo:"https://th.bing.com/th/id/R.1036645da936bf1b12c3b02847288626?rik=RFkOG8DT%2b8KdXg&pid=ImgRaw&r=0"
+      photo:"https://th.bing.com/th/id/R.5d7162becd1aea568a84400189294c2d?rik=C0ri6izylNVm%2bA&pid=ImgRaw&r=0"
     },
+    
   ];
   return (
     <>
